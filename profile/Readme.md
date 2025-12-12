@@ -1,3 +1,6 @@
 # About
-라온아크테크 스마트건축팀
+
+- Smart Arch Team
+- AX DX
+- Computational Design
 
