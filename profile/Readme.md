@@ -1,6 +1,8 @@
 # About
 
-- Smart Arch Team
+- LaonArcTech 
 - AX DX
+- AI Engineering
 - Computational Design
+
 
